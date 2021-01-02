@@ -1,4 +1,3 @@
-# From https://github.com/mvanholsteijn/docker-makefile
 #
 #   Copyright 2015  Xebia Nederland B.V.
 #
@@ -15,7 +14,7 @@
 #   limitations under the License.
 #
 REGISTRY_HOST=docker.io
-USERNAME=$(USER)
+USERNAME=n2qz
 NAME=$(shell basename $(CURDIR))
 
 RELEASE_SUPPORT := $(shell dirname $(abspath $(lastword $(MAKEFILE_LIST))))/.make-release-support
@@ -35,13 +34,13 @@ DOCKER_FILE_PATH=Dockerfile
 build: pre-build docker-build post-build
 
 pre-build:
-
+	docker run --rm -i hadolint/hadolint < Dockerfile
 
 post-build:
 
 
 pre-push:
-
+	docker run --rm -v ${HOME}/.cache/:/root/.cache/ -v /var/run/docker.sock:/var/run/docker.sock aquasec/trivy image --exit-code 1 --ignore-unfixed --no-progress $(IMAGE):$(VERSION)
 
 post-push:
 
