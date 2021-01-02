@@ -12,7 +12,6 @@ my $cgi = CGI->new;
 my $tt  = Template->new({
     INCLUDE_PATH => [
 	"$Bin/templates",
-	"$Bin",
 	]
 });
  
