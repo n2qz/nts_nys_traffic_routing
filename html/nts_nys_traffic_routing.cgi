@@ -45,39 +45,9 @@ print STDOUT $cgi->end_form();
 if ($search eq '') {
     print STDOUT $cgi->img({-src => "/nts.png",	-alt => "NTS", -class => "textwrap"});
 
-    print STDOUT $cgi->p('This database contains routing information
-			 for the American Radio Relay League <A
-			 HREF="http://www.arrl.org/nts">National
-			 Traffic System</A> in New York State.');
-
-    print STDOUT $cgi->p('The routing tables were originally compiled
-			 by <A HREF="https://www.qrz.com/db/KU2N">Carl
-			 R. Preddy KU2N</A> and <A
-			 HREF="https://www.qrz.com/db/NE2W">Edward
-			 Krymowski NE2W</A> in the <A
-			 HREF="/new_york_state_traffic_routing_guide.pdf">
-			 <cite>New York State Traffic Routing
-			 Guide</cite></A> in 1986.');
-
-    print STDOUT $cgi->p('The guide was scanned and processed by <A
-			 HREF="https://www.qrz.com/db/W2YGW">Art
-			 DeBruycker W2YGW</A> in 2005.');
-
-    print STDOUT $cgi->p('<A HREF="https://www.qrz.com/db/N2QZ">Nick
-			 Castellano N2QZ</A> started with Art\'s
-			 spreadsheet in 2008, cleaned up hundreds of
-			 OCR errors, updated the data to bring it
-			 closer to current reality, and created this
-			 CGI web search form.');
-
-    print STDOUT $cgi->p('<A HREF="https://www.qrz.com/db/N2JRS">Vince
-			 Harzewski N2JRS</A> provided significant
-			 corrections in December 2020.');
-
-    print STDOUT $cgi->p('Please contact <A
-			 HREF="http://www.qrz.com/db/N2QZ">N2QZ</A>
-			 with any updates or corrections.');
-
+    open my $fh, '<', '/usr/share/nginx/html/credits.html' or die "Can't open file: $!";
+    my $credits = do { local $/; <$fh> };
+    print STDOUT "$credits";
 } else {
     open(NTS, "</nts_nys_traffic_routing.csv") || die "$!";
     print $cgi->start_table({-border=>'2'});
