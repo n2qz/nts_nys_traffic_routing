@@ -1,0 +1,21 @@
+body {
+  background-color: darkblue;
+  color: white;
+}
+
+.textwrap {
+    float: right;
+    margin: 10px;
+}
+
+th,td {
+  padding: 0.25em 0.25em;
+}
+
+A:link,A:visited,A:active {
+  color: white;
+}
+
+table { background-color: red; }
+tr { background-color: black; }
+td { background-color: black; }
