@@ -1,0 +1,3 @@
+Makefile and .make-release-support derived from: https://github.com/mvanholsteijn/docker-makefile
+
+counter.cgi [currently unused] derived from: https://sdf.org/?faq?WEB?03
