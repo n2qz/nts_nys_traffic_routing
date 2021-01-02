@@ -11,7 +11,8 @@ RUN apt-get update \
        libfcgi-perl=0.78-2+b3 \
        fcgiwrap=1.1.0-12 \
        libp11-kit0=0.23.15-2+deb10u1 \
-    && apt-get clean \
+       libtemplate-perl=2.27-1+b1 \
+       && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
  
 COPY default.conf /etc/nginx/conf.d/default.conf

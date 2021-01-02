@@ -1,0 +1,45 @@
+<html>
+  <meta charset="utf-8"> 
+  <head>
+    <title>NTS New York State Traffic Routing Database</title>
+    <meta name="author" content="Nicholas S. Castellano N2QZ" />
+    <link rel="stylesheet" type="text/css" href="/nts_nys_traffic_routing.css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  </head>
+  <body>
+    <h1>NTS New York State Traffic Routing Database</h1>
+    <form method="post" action="/" enctype="multipart/form-data">
+      <p /><label>Search:<input type="text" name="search" value="[% search %]" />
+        <p /><label>Match fields:
+          <label><input type="checkbox" name="fields" value="city" [% 'checked' IF match.city %] />city</label>
+          <label><input type="checkbox" name="fields" value="zip" [% 'checked' IF match.zip %] />zip</label>
+          <label><input type="checkbox" name="fields" value="county" [% 'checked' IF match.county %] />county</label>
+          <label><input type="checkbox" name="fields" value="net" [% 'checked' IF match.net %] />net</label>
+          <p /><input type="submit" name=".submit" />
+          <input type="submit" name=".defaults" value="Reset Defaults" />
+          <div><input type="hidden" name=".cgifields" value="fields" /></div>
+    </form>
+    <img src="/nts.png" alt="National Traffic System logo" class="textwrap" />
+
+    [% IF search -%]
+    <table>
+      <thead>
+        <tr><td>City</td><td>Zip</td><td>County</td><td>Net</td></tr>
+      </thead>
+      <tbody>
+        [% USE table(tabledata, rows=4) %]
+        [% FOREACH cols = table.cols %]
+        <tr>
+          [% FOREACH item = cols %]
+          <td>[% item %]</td>
+          [% END %]
+        </tr>
+        [% END %]
+      </tbody>
+    </table>
+    <p />[% table.cols.size %] match[% 'es' UNLESS table.cols.size == 1 %] found.
+    [% ELSE %]
+    [% INSERT credits.html %]
+    [% END -%]
+  </body>
+</html>

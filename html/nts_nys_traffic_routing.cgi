@@ -1,19 +1,22 @@
-#! /usr/bin/perl -wT
+#! /usr/bin/perl -T
 
 use strict;
+use warnings;
 
-use CGI qw(:standard);
+use FindBin qw/ $Bin /;
+use Template;
+use CGI qw/ -utf8 /; 
 use CGI::Carp qw(fatalsToBrowser);
 
-my $cgi = new CGI;
-
-print STDOUT $cgi->header(-type => 'text/html');
-print STDOUT $cgi->start_html(-title=> 'NTS New York State Traffic Routing Database',
-			      -meta => {'author' => 'Nicholas S. Castellano N2QZ'},
-			      -style => {-src => '/nts_nys_traffic_routing.css'},
-			      );
-
-my $search = $cgi->param('search');
+my $cgi = CGI->new;
+my $tt  = Template->new({
+    INCLUDE_PATH => [
+	"$Bin/templates",
+	"$Bin",
+	]
+});
+ 
+my $search = $cgi->param('search') || "";
 my @fields = $cgi->multi_param('fields');
 if (@fields == 0) {
     @fields = ('city', 'zip');
@@ -24,34 +27,9 @@ foreach my $field (@fields) {
     $match{$field} = 1;
 }
 
-print STDOUT $cgi->h1('NTS New York State Traffic Routing Database');
-
-print STDOUT $cgi->start_form(-enctype => &CGI::MULTIPART,
-			      -action => $cgi->url());
-print STDOUT $cgi->p();
-print STDOUT "<LABEL>Search:\n";
-print STDOUT $cgi->textfield('search');
-print STDOUT $cgi->p();
-print STDOUT "<LABEL>Match fields:\n";
-print STDOUT $cgi->checkbox_group(-name => 'fields',
-				  -values => ['city', 'zip', 'county', 'net'],
-				  -defaults => [ @fields ]
-				  );
-print STDOUT $cgi->p();
-print STDOUT $cgi->submit();
-print STDOUT $cgi->defaults('Reset Defaults');
-print STDOUT $cgi->end_form();
-
-if ($search eq '') {
-    print STDOUT $cgi->img({-src => "/nts.png",	-alt => "NTS", -class => "textwrap"});
-
-    open my $fh, '<', '/usr/share/nginx/html/credits.html' or die "Can't open file: $!";
-    my $credits = do { local $/; <$fh> };
-    print STDOUT "$credits";
-} else {
+my @tabledata = ();
+if ($search ne '') {
     open(NTS, "</nts_nys_traffic_routing.csv") || die "$!";
-    print $cgi->start_table({-border=>'2'});
-    print Tr(th(['City', 'Zip', 'County', 'Net']));
     my $match = 0;    
     while (my $line = <NTS>) {
 	chomp($line);
@@ -60,20 +38,28 @@ if ($search eq '') {
 	    || ($match{'zip'} && ($zip =~ /$search/i))
 	    || ($match{'county'} && ($county =~ /$search/i))
 	    || ($match{'net'} && ($net =~ /$search/i))) {
-	    print Tr(td([$city, $zip, $county, $net]));
+	    push(@tabledata, ($city, $zip, $county, $net));
 	    $match++;
 	}
     }
     close(NTS);
-    print STDOUT $cgi->end_table();
-    print STDOUT $cgi->p();
-    print STDOUT $match, " match", (($match == 1) ? "" : "es"), " found.\n";
 }
 
-#print STDOUT $cgi->p();
-#@counter = `/arpa/ns/n/n2qz/html/counter.cgi`;
-#shift(@counter);
-#print STDOUT "Page hits: ", @counter;
+my $out = $cgi->header(
+    -type    => 'text/html',
+    -charset => 'utf-8',
+);
+ 
+$tt->process(
+    "nts_nys_traffic_routing.html.tt",
+    {
+        search => $search,
+	match => \%match,
+	tabledata => \@tabledata,
+    },
+    \$out,
+) or die $tt->error;
+ 
+print $out;
 
-print STDOUT $cgi->end_html();
-
+exit 0;
