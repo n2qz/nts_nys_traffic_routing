@@ -1,9 +1,11 @@
 #! /usr/bin/perl
 
+use strict;
+
 use CGI qw(:standard);
 use CGI::Carp qw(fatalsToBrowser);
 
-$cgi = new CGI;
+my $cgi = new CGI;
 
 print STDOUT $cgi->header(-type => 'text/html');
 print STDOUT $cgi->start_html(-title=> 'NTS New York State Traffic Routing Database',
@@ -11,13 +13,14 @@ print STDOUT $cgi->start_html(-title=> 'NTS New York State Traffic Routing Datab
 			      -style => {-src => '/nts_nys_traffic_routing.css'},
 			      );
 
-$search = $cgi->param('search');
-@fields = $cgi->multi_param('fields');
+my $search = $cgi->param('search');
+my @fields = $cgi->multi_param('fields');
 if (@fields == 0) {
     @fields = ('city', 'zip');
 }
 
-foreach $field (@fields) {
+my %match;
+foreach my $field (@fields) {
     $match{$field} = 1;
 }
 
@@ -79,10 +82,10 @@ if ($search eq '') {
     open(NTS, "</nts_nys_traffic_routing.csv") || die "$!";
     print $cgi->start_table({-border=>'2'});
     print Tr(th(['City', 'Zip', 'County', 'Net']));
-    $match = 0;    
-    while ($line = <NTS>) {
+    my $match = 0;    
+    while (my $line = <NTS>) {
 	chomp($line);
-	($city, $zip, $county, $net) = split(/,/, $line);
+	my ($city, $zip, $county, $net) = split(/,/, $line);
 	if (($match{'city'} && ($city =~ /$search/i))
 	    || ($match{'zip'} && ($zip =~ /$search/i))
 	    || ($match{'county'} && ($county =~ /$search/i))
