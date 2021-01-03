@@ -14,7 +14,7 @@ set 'warnings'     => 1;
 hook before_template_render => sub {
     my $tokens = shift;
  
-    $tokens->{'css_url'} = request->base . 'css/style.css';
+    $tokens->{'css_url'} = 'css/style.css';
 };
 
 any [ 'get','post' ] => '/' => sub {
