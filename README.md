@@ -17,13 +17,13 @@ make
 Run the container locally for testing:
 
 ```bash
-docker run --rm -it -p 8192:80 docker.io/n2qz/nts_nys_traffic_routing:latest
+docker run --rm -it -p 127.0.0.1:3000:3000 docker.io/n2qz/nts_nys_traffic_routing:latest
 ```
 
 Then run a browser to interact with the page, for example:
 
 ```bash
-lynx http://localhost:8192/
+lynx http://localhost:3000/
 ```
 
 ## Contributing
