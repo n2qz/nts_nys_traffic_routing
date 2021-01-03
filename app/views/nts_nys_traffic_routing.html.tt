@@ -1,9 +1,10 @@
+<!doctype html>
 <html>
   <meta charset="utf-8"> 
   <head>
     <title>NTS New York State Traffic Routing Database</title>
     <meta name="author" content="Nicholas S. Castellano N2QZ" />
-    <link rel="stylesheet" type="text/css" href="/nts_nys_traffic_routing.css" />
+    <link rel="stylesheet" type="text/css" href="[% css_url %]" />
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   </head>
   <body>
@@ -17,7 +18,6 @@
           <label><input type="checkbox" name="fields" value="net" [% 'checked' IF match.net %] />net</label>
           <p /><input type="submit" name=".submit" />
           <input type="submit" name=".defaults" value="Reset Defaults" />
-          <div><input type="hidden" name=".cgifields" value="fields" /></div>
     </form>
     <img src="/nts.png" alt="National Traffic System logo" class="textwrap" />
 

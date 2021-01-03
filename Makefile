@@ -34,12 +34,12 @@ DOCKER_FILE_PATH=Dockerfile
 build: pre-build docker-build post-build
 
 pre-build:
-	docker run --rm -i hadolint/hadolint < Dockerfile
 
 post-build:
 
 
 pre-push:
+	docker run --rm -i hadolint/hadolint < Dockerfile
 	docker run --rm -v ${HOME}/.cache/:/root/.cache/ -v /var/run/docker.sock:/var/run/docker.sock aquasec/trivy image --exit-code 1 --ignore-unfixed --no-progress $(IMAGE):$(VERSION)
 
 post-push:
