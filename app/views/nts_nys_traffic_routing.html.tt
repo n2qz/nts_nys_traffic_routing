@@ -17,7 +17,6 @@
           <label><input type="checkbox" name="fields" value="county" [% 'checked' IF match.county %] />county</label>
           <label><input type="checkbox" name="fields" value="net" [% 'checked' IF match.net %] />net</label>
           <p /><input type="submit" name=".submit" />
-          <input type="submit" name=".defaults" value="Reset Defaults" />
     </form>
     <img src="/nts.png" alt="National Traffic System logo" class="textwrap" />
 
