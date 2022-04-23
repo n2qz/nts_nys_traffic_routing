@@ -33,7 +33,7 @@ first to discuss what you would like to change.
 
 ## Credits
 
-See [credits.html](html/templates/credits.html)
+See [credits.html](app/views/credits.html)
 
 ## License
 
