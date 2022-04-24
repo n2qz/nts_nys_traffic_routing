@@ -1,0 +1,8 @@
+#logger: 'file'
+logger: 'console'
+log: 'core'      # will log debug, info, warnings, errors,
+                 #   and messages from Dancer2 itself
+#log: 'debug'     # will log debug, info, warning and errors
+#log: 'info'      # will log info, warning and errors
+#log: 'warning'   # will log warning and errors
+#log: 'error'     # will log only errors
