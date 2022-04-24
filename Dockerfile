@@ -1,4 +1,4 @@
-FROM perl:5.34.1-buster
+FROM perl:5.34.1
 
 LABEL maintainer="Nicholas S. Castellano N2QZ <n2qz@n2qz.net>"
 
@@ -7,7 +7,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 # Patching CVE-2022-1271
 RUN apt-get update \
     && apt-get install --no-install-recommends -y \
-       gzip=1.9-3+deb10u1 \
+       gzip=1.10-4+deb11u1 \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
