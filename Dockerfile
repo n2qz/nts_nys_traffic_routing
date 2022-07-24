@@ -4,13 +4,6 @@ LABEL maintainer="Nicholas S. Castellano N2QZ <n2qz@n2qz.net>"
 
 ARG DEBIAN_FRONTEND=noninteractive
 
-# Patching CVE-2022-1271
-RUN apt-get update \
-    && apt-get install --no-install-recommends -y \
-       gzip=1.10-4+deb11u1 \
-    && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
-
 COPY cpanfile /cpanfile
 
 RUN mkdir /app
