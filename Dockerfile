@@ -1,4 +1,4 @@
-FROM perl:5.34.1
+FROM perl:5.36.0
 
 LABEL maintainer="Nicholas S. Castellano N2QZ <n2qz@n2qz.net>"
 
