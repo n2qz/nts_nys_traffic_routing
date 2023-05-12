@@ -30,3 +30,7 @@ spec:
         image: n2qz/nts_nys_traffic_routing:1.3.7
         ports:
         - containerPort: 3000
+        resources:
+          requests:
+            cpu: 100m
+            memory: 128Mi
