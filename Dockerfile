@@ -5,9 +5,11 @@ LABEL maintainer="Nicholas S. Castellano N2QZ <n2qz@n2qz.net>"
 ARG DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update \
-    && apt-get install \
+    && apt-get -y --no-install-recommends install \
         libpq-dev=13.11-0+deb11u1 \
-        libpq5=13.11-0+deb11u1
+        libpq5=13.11-0+deb11u1 \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 COPY cpanfile /cpanfile
 
