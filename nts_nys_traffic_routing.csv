@@ -5,11 +5,11 @@ Accord,12404,Ulster,HVN
 Acidalia,12760,Sullivan,HVN
 Acra,12405,Greene,CDN
 Acra Place,13904,Broome,STR
-Adams,13605,Jefferson,OCT
+Adams,13605,Jefferson,NNY
 Adams Basin,14410,Monroe,WDN
-Adams Center,13606,Jefferson,OCT
+Adams Center,13606,Jefferson,NNY
 Adams Corners,10579,Putnam,HVN
-Adams Cove,13634,Jefferson,OCT
+Adams Cove,13634,Jefferson,NNY
 Adamsville,12827,Washington,CDN
 Addison,14801,Steuben,WDN
 Adelphi,11238,Kings,BAV
@@ -94,7 +94,7 @@ Allaben,12480,Ulster,HVN
 Allard Corners,14586,Orange,HVN
 Allegany,14706,Cattaraugus,WDN
 Allen Center,14735,Allegany,WDN
-Allendale,13605,Jefferson,OCT
+Allendale,13605,Jefferson,NNY
 Allens Hill,14469,Ontario,WDN
 Allentown,14707,Allegany,WDN
 Allerton,10467,Bronx,BAV
@@ -141,7 +141,7 @@ Angola on the Lake,14006,Erie,WDN
 Annadale on Hudson,12504,Dutchess,HVN
 Annsville,10566,Westchester,SDN
 Ansonia,10023,New York,BAV
-Antwerp,13608,Jefferson,OCT
+Antwerp,13608,Jefferson,NNY
 Apalachin,13732,Tioga,STR
 Apaquoque,11937,Suffolk,NCV
 Apex,13783,Delaware,STR
@@ -186,7 +186,7 @@ Ashville Bay,14701,Chautauqua,WDN
 Ashwood,14092,Orleans,WDN
 Assembly Park,13159,Onondaga,OCT
 Assembly Point,12845,Warren,CDN
-Association Island,13651,Jefferson,OCT
+Association Island,13651,Jefferson,NNY
 Astoria,11102,Queens,BAV
 Athens,12015,Greene,CDN
 Athol,12810,Warren,CDN
@@ -219,7 +219,7 @@ Babcock Lake,12138,Rensselaer,CDN
 Babylon,11702,Suffolk,NCV
 Bacon Hill,12871,Saratoga,CDN
 Bagdad,14034,Erie,WDN
-Baggs Corners,13601,Jefferson,OCT
+Baggs Corners,13601,Jefferson,NNY
 Bainbridge,13733,Chenango,STR
 Baird Corners,13027,Onondaga,OCT
 Baiting Hollow,11933,Suffolk,NCV
@@ -257,7 +257,7 @@ Barkersville,12850,Saratoga,CDN
 Barkertown,14517,Livingston,WDN
 Barnardville,12092,Schoharie,CDN
 Barneveld,13304,Oneida,OCT
-Barns Corners,13610,Lewis,OCT
+Barns Corners,13610,Lewis,NNY
 Barre Center,14411,Orleans,WDN
 Barrytown,12507,Dutchess,HVN
 Barryville,12719,Sullivan,HVN
@@ -300,7 +300,7 @@ Beards Hollow,12149,Schoharie,CDN
 Bearsville,12409,Ulster,HVN
 Beaver Brook,12764,Sullivan,HVN
 Beaver Dams,14812,Schuyler,STR
-Beaver Falls,13305,Lewis,OCT
+Beaver Falls,13305,Lewis,NNY
 Beaver Hill,10523,Westchester,SDN
 Beaver Meadow,13832,Chemung,STR
 Beaver River,13367,Herkimer,OCT
@@ -319,7 +319,7 @@ Beerston,13856,Delaware,STR
 Beixedon Estates,11971,Suffolk,NCV
 Belcher,12865,Washington,CDN
 Belfast,14711,Allegany,WDN
-Belfort,13327,Lewis,OCT
+Belfort,13327,Lewis,NNY
 Belgium,13027,Onondaga,OCT
 Belle Harbor,11690,Queens,BAV
 Belle Isle,13164,Onondaga,OCT
@@ -329,8 +329,8 @@ Bellona,14415,Yates,WDN
 Bellport,11713,Suffolk,NCV
 Bellvale,10912,Orange,HVN
 Bellview,14225,Erie,WDN
-Bellville,13611,Jefferson,OCT
-Bellwood,13626,Lewis,OCT
+Bellville,13611,Jefferson,NNY
+Bellwood,13626,Lewis,NNY
 Belmont,14813,Allegany,WDN
 Belmont Center,12920,Franklin,NNY
 Belrose,11426,Queens,BAV
@@ -346,7 +346,7 @@ Bennetts Corners,13421,Madison,OCT
 Bennettsburg,14818,Schuyler,STR
 Bennettsville,13733,Chemung,STR
 Bennington,14011,Wyoming,WDN
-Benson,12134,Hamilton,OCT
+Benson,12134,Hamilton,NNY
 Benton Center,14527,Yates,WDN
 Benton Corners,12525,Ulster,HVN
 Berea,12549,Orange,HVN
@@ -395,11 +395,11 @@ Binnewater,12404,Ulster,HVN
 Birchton,12020,Saratoga,CDN
 Bird,14101,Chautauqua,WDN
 Birdsall,14822,Allegany,WDN
-Bishop Street,13605,Jefferson,OCT
+Bishop Street,13605,Jefferson,NNY
 Bishopville,14807,Allegany,WDN
 Black Brook,12912,Clinton,NNY
 Black Creek,14714,Allegany,WDN
-Black River,13612,Jefferson,OCT
+Black River,13612,Jefferson,NNY
 Blackmans Corners,12929,Clinton,NNY
 Blairville,14174,Niagara,WDN
 Blakeley,14052,Erie,WDN
@@ -418,7 +418,7 @@ Bloomington,12411,Ulster,HVN
 Bloomville,12739,Delaware,STR
 Blossvale,13308,Oneida,OCT
 Blue Mountain,12477,Ulster,HVN
-Blue Mountain Lake,12812,Hamilton,OCT
+Blue Mountain Lake,12812,Hamilton,NNY
 Blue Point,11715,Suffolk,NCV
 Blue Stores,12541,Columbia,CDN
 Bluff Point,14478,Yates,WDN
@@ -444,7 +444,7 @@ Boston Corners,14512,Ontario,WDN
 Botanical,10458,Broome,STR
 Bouckville,13310,Madison,OCT
 Boulevard,10459,Bronx,BAV
-Boultons Beach,13685,Jefferson,OCT
+Boultons Beach,13685,Jefferson,NNY
 Bouquet,12936,Essex,NNY
 Bourns Beach,14787,Chautauqua,WDN
 Boutonville,10576,Westchester,SDN
@@ -472,7 +472,7 @@ Branchport,14418,Yates,WDN
 Brandreth,12847,Herkimer,OCT
 Brant,14027,Erie,WDN
 Brant Lake,12815,Warren,CDN
-Brantingham,13312,Lewis,OCT
+Brantingham,13312,Lewis,NNY
 Brasher Center,13613,Saint Lawrence,NNY
 Brasher Corners,13613,Saint Lawrence,NNY
 Brasie Corners,13642,Saint Lawrence,NNY
@@ -491,11 +491,11 @@ Bridgehampton,11932,Suffolk,NCV
 Bridgeport,13030,Madison,OCT
 Bridgeville,12701,Sullivan,HVN
 Brier Hill,13614,Saint Lawrence,NNY
-Briggs Corner,13367,Lewis,OCT
+Briggs Corner,13367,Lewis,NNY
 Brighton,11235,Kings,BAV
 Brighton,14610,Monroe,WDN
 Brighton Village,14151,Erie,WDN
-Brightside,13436,Hamilton,OCT
+Brightside,13436,Hamilton,NNY
 Brightwaters,11718,Suffolk,NCV
 Brinkerhoff,12524,Dutchess,HVN
 Brior Park,11794,Nassau,NCV
@@ -593,7 +593,7 @@ Brooklyn,11254,Kings,BAV
 Brooklyn,11255,Kings,BAV
 Brooklyn,11256,Kings,BAV
 Brooktondale,14817,Tompkins,STR
-Brownville,13615,Jefferson,OCT
+Brownville,13615,Jefferson,NNY
 Brushton,12916,Franklin,NNY
 Buchanan,10511,Westchester,SDN
 Buffalo,14201,Erie,WDN
@@ -651,7 +651,7 @@ Buskirk,12028,Rensselaer,CDN
 Byron,14422,Genesee,WDN
 Cadyville,12918,Clinton,NNY
 Cairo,12413,Greene,CDN
-Calcium,13616,Jefferson,OCT
+Calcium,13616,Jefferson,NNY
 Caledonia,14423,Livingston,WDN
 Callicoon,12723,Sullivan,HVN
 Callicoon Center,12724,Sullivan,HVN
@@ -673,19 +673,19 @@ Candor,13743,Tioga,STR
 Caneadea,14717,Allegany,WDN
 Canisteo,14823,Steuben,WDN
 Canton,13617,Saint Lawrence,NNY
-Cape Vincent,13618,Jefferson,OCT
+Cape Vincent,13618,Jefferson,NNY
 Carle Place,11514,Nassau,NCV
 Carlisle,12031,Schoharie,CDN
 Carmel,10512,Putnam,HVN
 Caroga Lake,12032,Fulton,CDN
-Carthage,13619,Jefferson,OCT
+Carthage,13619,Jefferson,NNY
 Cassadaga,14718,Chautauqua,WDN
 Cassville,13318,Oneida,OCT
 Castile,14427,Wyoming,WDN
 Castle Creek,13744,Broome,STR
 Castle Point,12511,Dutchess,HVN
 Castleton On Hudson,12033,Rensselaer,CDN
-Castorland,13620,Lewis,OCT
+Castorland,13620,Lewis,NNY
 Cato,13033,Cayuga,OCT
 Catskill,12414,Greene,CDN
 Cattaraugus,14719,Cattaraugus,WDN
@@ -711,7 +711,7 @@ Charlotteville,12036,Schoharie,CDN
 Chase Mills,13621,Saint Lawrence,NNY
 Chateaugay,12920,Franklin,NNY
 Chatham,12037,Columbia,CDN
-Chaumont,13622,Jefferson,OCT
+Chaumont,13622,Jefferson,NNY
 Chautauqua,14722,Chautauqua,WDN
 Chazy,12921,Clinton,NNY
 Chelsea,12512,Dutchess,HVN
@@ -741,7 +741,7 @@ Clarksville,12041,Albany,CDN
 Claryville,12725,Sullivan,HVN
 Claverack,12513,Columbia,CDN
 Clay,13041,Onondaga,OCT
-Clayton,13624,Jefferson,OCT
+Clayton,13624,Jefferson,NNY
 Clayville,13322,Oneida,OCT
 Clemons,12819,Washington,CDN
 Cleveland,13042,Oswego,OCT
@@ -780,13 +780,13 @@ Congers,10920,Rockland,SDN
 Conklin,13748,Broome,STR
 Connelly,12417,Ulster,HVN
 Constable,12926,Franklin,NNY
-Constableville,13325,Lewis,OCT
+Constableville,13325,Lewis,NNY
 Constantia,13044,Oswego,OCT
 Coopers Plains,14827,Steuben,WDN
 Cooperstown,13326,Otsego,OCT
 Copake,12516,Columbia,CDN
 Copake Falls,12517,Columbia,CDN
-Copenhagen,13626,Lewis,OCT
+Copenhagen,13626,Lewis,NNY
 Copiague,11726,Suffolk,NCV
 Coram,11727,Suffolk,NCV
 Corbettsville,13749,Broome,STR
@@ -808,7 +808,7 @@ Cragsmoor,12420,Ulster,HVN
 Cranberry Lake,12927,Saint Lawrence,NNY
 Craryville,12521,Columbia,CDN
 Crittenden,14038,Erie,WDN
-Croghan,13327,Lewis,OCT
+Croghan,13327,Lewis,NNY
 Crompond,10517,Westchester,SDN
 Cropseyville,12052,Rensselaer,CDN
 Cross River,10518,Westchester,SDN
@@ -853,9 +853,9 @@ Debruce,12758,Sullivan,HVN
 Decatur,12197,Otsego,OCT
 Deck,13407,Herkimer,OCT
 Deer Park,11729,Suffolk,NCV
-Deer River,13627,Lewis,OCT
-Deerland,12847,Hamilton,OCT
-Deferiet,13628,Jefferson,OCT
+Deer River,13627,Lewis,NNY
+Deerland,12847,Hamilton,NNY
+Deferiet,13628,Jefferson,NNY
 Defreestville,12144,Rensselaer,CDN
 Degrasse,13684,Saint Lawrence,NNY
 Delanson,12053,Schenectady,CDN
@@ -866,15 +866,15 @@ Delphi Falls,13051,Onondaga,OCT
 Delray,14224,Erie,WDN
 Dempster Beach,13126,Oswego,OCT
 Demster,13126,Oswego,OCT
-Denley,13433,Lewis,OCT
-Denmark,13631,Lewis,OCT
+Denley,13433,Lewis,NNY
+Denmark,13631,Lewis,NNY
 Dennies Hollow,12117,Fulton,CDN
 Denning,12725,Ulster,HVN
 Dennison Corners,13407,Herkimer,OCT
 Denton,10958,Orange,HVN
 Denton Hills,11721,Suffolk,NCV
 Denver,12421,Delaware,STR
-Depauville,13632,Jefferson,OCT
+Depauville,13632,Jefferson,NNY
 Depayster,13633,Saint Lawrence,NNY
 Depew,14043,Erie,WDN
 Deposit,13754,Broome,STR
@@ -889,10 +889,10 @@ Dewey,14613,Monroe,WDN
 Dewey Bridge,12827,Washington,CDN
 Dewitt,13214,Onondaga,OCT
 Dewittville,14728,Chautauqua,WDN
-Dexter,13634,Jefferson,OCT
-Dexter Junction,13634,Jefferson,OCT
+Dexter,13634,Jefferson,NNY
+Dexter Junction,13634,Jefferson,NNY
 Dexterville,13069,Oswego,OCT
-Diamond,13659,Jefferson,OCT
+Diamond,13659,Jefferson,NNY
 Diamond Hill,13365,Herkimer,OCT
 Diamond Point,12824,Warren,CDN
 Dibblerton,13308,Oneida,OCT
@@ -1024,7 +1024,7 @@ East Hempstead,11553,Nassau,NCV
 East Herkimer,13350,Herkimer,OCT
 East Hills,11576,Nassau,NCV
 East Homer,13056,Cortland,STR
-East Houndsfield,13601,Jefferson,OCT
+East Houndsfield,13601,Jefferson,NNY
 East Huntington,11743,Suffolk,NCV
 East Irvington,10533,Westchester,SDN
 East Islip,11730,Suffolk,NCV
@@ -1038,7 +1038,7 @@ East Leon,14719,Cattaraugus,WDN
 East Lime,12020,Saratoga,CDN
 East Maine,13790,Broome,STR
 East Marion,11939,Suffolk,NCV
-East Martinsburg,13367,Lewis,OCT
+East Martinsburg,13367,Lewis,NNY
 East Masonville,13839,Delaware,STR
 East Massapequa,11758,Nassau,NCV
 East McDonough,13830,Chenango,STR
@@ -1076,7 +1076,7 @@ East Randolph,14730,Cattaraugus,WDN
 East Ripley,14775,Chautauqua,WDN
 East Rochester,14445,Monroe,WDN
 East Rockaway,11518,Nassau,NCV
-East Rodman,13626,Jefferson,OCT
+East Rodman,13626,Jefferson,NNY
 East Salamanca,14779,Cattaraugus,WDN
 East Schodack,12063,Rensselaer,CDN
 East Schuyler,13340,Herkimer,OCT
@@ -1098,7 +1098,7 @@ East Victor,14564,Ontario,WDN
 East View,10595,Westchester,SDN
 East Virgil,13045,Cortland,STR
 East Walden,12586,Orange,HVN
-East Watertown,13601,Jefferson,OCT
+East Watertown,13601,Jefferson,NNY
 East Waverley,14892,Tioga,STR
 East Wawarsing,12489,Ulster,HVN
 East White Plains,10604,Westchester,SDN
@@ -1134,7 +1134,7 @@ Edgewater Park,13152,Onondaga,OCT
 Edgewood,12450,Greene,CDN
 Edgewood,11717,Suffolk,NCV
 Edgewood Garden,13164,Onondaga,OCT
-Edgewood Park,13607,Jefferson,OCT
+Edgewood Park,13607,Jefferson,NNY
 Edinberg,12134,Saratoga,CDN
 Edmestgon,13335,Otsego,OCT
 Edwards,13635,Saint Lawrence,NNY
@@ -1162,7 +1162,7 @@ Ellicott,14127,Erie,WDN
 Ellicottville,14731,Chautauqua,WDN
 Ellington,14732,Chautauqua,WDN
 Ellis,14850,Tompkins,STR
-Ellisburg,13636,Jefferson,OCT
+Ellisburg,13636,Jefferson,NNY
 Ellistown,14892,Tioga,STR
 Ellwood Park,14223,Erie,WDN
 Elm Grove,13808,Otsego,OCT
@@ -1217,7 +1217,7 @@ Essex,12936,Essex,NNY
 Etna,13062,Tompkins,STR
 Euclid,13041,Onondaga,OCT
 Evans Center,14006,Erie,WDN
-Evans Mills,13637,Jefferson,OCT
+Evans Mills,13637,Jefferson,NNY
 Exter,13315,Otsego,OCT
 Fabius,13063,Onondaga,OCT
 Factory Village,12020,Saratoga,CDN
@@ -1246,7 +1246,7 @@ Far Rockaway,11691,Queens,BAV
 Far Rockaway,11693,Queens,BAV
 Far Rockaway,11695,Queens,BAV
 Fargo,14036,Genesee,WDN
-Fargo,13619,Jefferson,OCT
+Fargo,13619,Jefferson,NNY
 Farley Corners,13069,Oswego,OCT
 Farleys Point,13160,Cayuga,OCT
 Farmers Mills,10512,Putnam,HVN
@@ -1264,7 +1264,7 @@ Fayette,13065,Seneca,OCT
 Fayette Manor,13066,Onondaga,OCT
 Federal,14614,Monroe,WDN
 Federal Reserve,10045,New York,BAV
-Felts Mills,13638,Jefferson,OCT
+Felts Mills,13638,Jefferson,NNY
 Fenimore,12801,Saratoga,CDN
 Fentonville,14738,Chautauqua,WDN
 Ferenbaugh,14812,Steuben,WDN
@@ -1285,20 +1285,20 @@ Filmore Corner,13104,Onondaga,OCT
 Finchville,10940,Orange,HVN
 Findley Lake,14736,Chautauqua,WDN
 Fine,13639,Saint Lawrence,NNY
-Fineview,13640,Jefferson,OCT
+Fineview,13640,Jefferson,NNY
 Fink Basin,13365,Herkimer,OCT
 Finnegans Corners,10924,Orange,HVN
 Firch Bridge,14901,Chemung,STR
 Fire Island Pines,11782,Suffolk,NCV
 Firthcliffe Heights,12551,Orange,HVN
 Fiscal Coprners,13452,Fulton,CDN
-Fish Creek,13325,Lewis,OCT
+Fish Creek,13325,Lewis,NNY
 Fish Creek,12477,Ulster,HVN
 Fish House,12025,Fulton,CDN
 Fish reek Landing,12308,Oneida,OCT
 Fishers,14453,Ontario,WDN
 Fishers Island,06390,Suffolk,NCV
-Fishers Landing,13641,Jefferson,OCT
+Fishers Landing,13641,Jefferson,NNY
 Fisherville,14903,Chemung,STR
 Fishkill,12524,Dutchess,HVN
 Fishkill Plains,12590,Dutchess,HVN
@@ -1341,7 +1341,7 @@ Forestport,13338,Oneida,OCT
 Forestville,14062,Chautauqua,WDN
 Fort Ann,12827,Washington,CDN
 Fort Covington,12937,Franklin,NNY
-Fort Drum,13602,Jefferson,OCT
+Fort Drum,13602,Jefferson,NNY
 Fort Edward,12828,Washington,CDN
 Fort Hunter,12069,Montgomery,CDN
 Fort Johnson,12070,Montgomery,CDN
@@ -1363,7 +1363,7 @@ Fresh Meadows,11366,Queens,BAV
 Frewsburg,14738,Chautauqua,WDN
 Friendship,14739,Allegany,WDN
 Front Street,13905,Broome,STR
-Frontenac,13624,Jefferson,OCT
+Frontenac,13624,Jefferson,NNY
 Fruit Valley,13126,Oswego,OCT
 Fruitland,14519,Wayne,WDN
 Fullers,12009,Albany,CDN
@@ -1400,7 +1400,7 @@ Garden City Park,11040,Nassau,NCV
 Garden City South,11530,Nassau,NCV
 Gardenville,14224,Erie,WDN
 Gardiner,12525,Ulster,HVN
-Gardners Corners,13367,Lewis,OCT
+Gardners Corners,13367,Lewis,NNY
 Gardnertown,12550,Orange,HVN
 Garfield,12168,Rensselaer,CDN
 Garnerville,10923,Rockland,SDN
@@ -1439,7 +1439,7 @@ Gibson Landing,14830,Steuben,WDN
 Gifford,12056,Schenectady,CDN
 Gilbertsville,13776,Otsego,OCT
 Gilboa,12076,Schoharie,CDN
-Gilmantown,12190,Hamilton,OCT
+Gilmantown,12190,Hamilton,NNY
 Glasco,12432,Ulster,HVN
 Glass Lake,12018,Rensselaer,CDN
 Glen,12072,Montgomery,CDN
@@ -1454,7 +1454,7 @@ Glen Island,12814,Warren,CDN
 Glen Lake,12801,Warren,CDN
 Glen Lake,12845,Warren,CDN
 Glen Oaks,11004,Queens,BAV
-Glen Park,13601,Jefferson,OCT
+Glen Park,13601,Jefferson,NNY
 Glen Spey,12737,Sullivan,HVN
 Glen Wild,12738,Sullivan,HVN
 Glenburnie,12861,Washington,CDN
@@ -1462,7 +1462,7 @@ Glencairn,14892,Tioga,STR
 Glencoe Mills,12534,Columbia,CDN
 Glendale,11385,Queens,BAV
 Glenerie,12477,Ulster,HVN
-Glenfield,13343,Lewis,OCT
+Glenfield,13343,Lewis,NNY
 Glenford,12433,Ulster,HVN
 Glenham,12527,Dutchess,HVN
 Glenhaven,13492,Oneida,OCT
@@ -1518,7 +1518,7 @@ Gravesend,11223,Kings,BAV
 Gravesville,13431,Herkimer,OCT
 Gray,13324,Herkimer,OCT
 Grays Corners,12887,Washington,CDN
-Great Bend,13643,Jefferson,OCT
+Great Bend,13643,Jefferson,NNY
 Great Kills,10308,Richmond,BAV
 Great Neck,11020,Nassau,NCV
 Great Neck Estates,11021,Nassau,NCV
@@ -1554,12 +1554,12 @@ Greenwich,12834,Washington,CDN
 Greenwood,14839,Steuben,WDN
 Greenwood Lake,10925,Orange,HVN
 Gregorytown,13755,Delaware,STR
-Greig,13345,Lewis,OCT
+Greig,13345,Lewis,NNY
 Greigsville,14533,Livingston,WDN
-Grenell,13624,Jefferson,OCT
+Grenell,13624,Jefferson,NNY
 Greycourt,10918,Orange,HVN
 Gridleyville,13864,Tioga,STR
-Griffin,12190,Hamilton,OCT
+Griffin,12190,Hamilton,NNY
 Griffins Mills,14170,Erie,WDN
 Griffis Air Force Base (closed),13440,Oneida,OCT
 Griswold,14718,Chautauqua,WDN
@@ -1659,7 +1659,7 @@ Harris Hill,14221,Erie,WDN
 Harrisburg,12878,Warren,CDN
 Harrison,10528,Westchester,SDN
 Harrison Grove,14174,Niagara,WDN
-Harrisville,13648,Lewis,OCT
+Harrisville,13648,Lewis,NNY
 Harrower,12010,Montgomery,CDN
 Hartfield,14728,Chautauqua,WDN
 Hartfield,14757,Chautauqua,WDN
@@ -1713,8 +1713,8 @@ Hemlock District,13083,Oswego,OCT
 Hempstead,11550,Nassau,NCV
 Hemstead Gardens,11552,Nassau,NCV
 Hemstreet Park,12118,Rensselaer,CDN
-Henderson,13650,Jefferson,OCT
-Henderson Harbor,13651,Jefferson,OCT
+Henderson,13650,Jefferson,NNY
+Henderson Harbor,13651,Jefferson,NNY
 Hendy Creek,14871,Chemung,STR
 Henrietta,14467,Monroe,WDN
 Hensonville,12439,Greene,CDN
@@ -1742,9 +1742,9 @@ Hicksville,11819,Nassau,NCV
 Hicksville,11854,Nassau,NCV
 Hicksville,11855,Nassau,NCV
 Higgins,14065,Allegany,WDN
-Higgins Bay,12108,Hamilton,OCT
+Higgins Bay,12108,Hamilton,NNY
 Higginsville,13054,Oneida,OCT
-High Bank,12981,Hamilton,OCT
+High Bank,12981,Hamilton,NNY
 High Bridge,10452,Bronx,BAV
 High Bridge,13066,Onondaga,OCT
 High Falls,12440,Ulster,HVN
@@ -1790,7 +1790,7 @@ Hobart,13788,Delaware,STR
 Hobins Corners,13480,Oneida,OCT
 Hoboken,13411,Otsego,OCT
 Hoffmans Station,14120,Niagara,WDN
-Hoffmeister,13353,Hamilton,OCT
+Hoffmeister,13353,Hamilton,NNY
 Hogansburg,13655,Franklin,NNY
 Holbrook,11741,Suffolk,NCV
 Holcomb,14469,Ontario,WDN
@@ -1814,7 +1814,7 @@ Homewood Park,14225,Erie,WDN
 Honeoye,14471,Ontario,WDN
 Honeoye Falls,14472,Monroe,WDN
 Honest Hill,14470,Orleans,WDN
-Honeyville,13606,Jefferson,OCT
+Honeyville,13606,Jefferson,NNY
 Honk hill,12458,Ulster,HVN
 Honnedaga,13338,Oneida,OCT
 Hook,12827,Washington,CDN
@@ -1822,8 +1822,8 @@ Hoopers Valley,13812,Tioga,STR
 Hoosick,12089,Rensselaer,CDN
 Hoosick Falls,12090,Rensselaer,CDN
 Hoosick Junction,12133,Rensselaer,CDN
-Hope Falls,12134,Hamilton,OCT
-Hope Valley,12134,Hamilton,OCT
+Hope Falls,12134,Hamilton,NNY
+Hope Valley,12134,Hamilton,NNY
 Hopewell Center,14424,Ontario,WDN
 Hopewell Junction,12533,Dutchess,HVN
 Horace Harding,11362,Queens,BAV
@@ -1835,7 +1835,7 @@ Horton,12776,Delaware,STR
 Horton Estates,10587,Westchester,SDN
 Hortonville,12745,Sullivan,HVN
 Houghton,14744,Allegany,WDN
-Houseville,13473,Lewis,OCT
+Houseville,13473,Lewis,NNY
 Housons Corners,12122,Schoharie,CDN
 Howard,10031,New York,BAV
 Howard,14843,Steuben,WDN
@@ -1848,7 +1848,7 @@ Howes Cave,12092,Schoharie,CDN
 Howland Corners,14882,Tompkins,STR
 Howlett Hill,13031,Onondaga,OCT
 Hub,10455,Bronx,BAV
-Hubbards,13312,Lewis,OCT
+Hubbards,13312,Lewis,NNY
 Hubbardsville,13355,Madison,OCT
 Hudson,12534,Columbia,CDN
 Hudson Falls,12839,Washington,CDN
@@ -1870,7 +1870,7 @@ Huntington,11743,Suffolk,NCV
 Huntington Bay,11743,Suffolk,NCV
 Huntington Beach,11743,Suffolk,NCV
 Huntington Station,11746,Suffolk,NCV
-Huntingtonville,13601,Jefferson,OCT
+Huntingtonville,13601,Jefferson,NNY
 Huntley Corners,13491,Otsego,OCT
 Hurley,12443,Ulster,HVN
 Hurleyville,12747,Sullivan,HVN
@@ -1886,9 +1886,9 @@ Index,13326,Otsego,OCT
 Indian Cove,13118,Cayuga,OCT
 Indian Falls,14036,Genesee,WDN
 Indian Kettles,12836,Warren,CDN
-Indian Lake,12842,Hamilton,OCT
+Indian Lake,12842,Hamilton,NNY
 Indian Park,10925,Orange,HVN
-Indian River,13327,Lewis,OCT
+Indian River,13327,Lewis,NNY
 Indian Village,13120,Onondaga,OCT
 Ingham Mills,13365,Fulton,CDN
 Ingham Mills,13365,Herkimer,OCT
@@ -1896,7 +1896,7 @@ Ingham Mills Station,13365,Herkimer,OCT
 Inghams,13365,Herkimer,OCT
 Ingleside,14512,Steuben,WDN
 Ingraham,12921,Clinton,NNY
-Inlet,13360,Hamilton,OCT
+Inlet,13360,Hamilton,NNY
 Interlaken,14847,Seneca,OCT
 Interlaken Beach,14847,Seneca,OCT
 International Junction,14223,Erie,WDN
@@ -1973,7 +1973,7 @@ Jewell,13042,Oneida,OCT
 Jewett,12444,Greene,CDN
 Jewett Center,12442,Greene,CDN
 Jewettville,14170,Erie,WDN
-Jewettville,13685,Jefferson,OCT
+Jewettville,13685,Jefferson,NNY
 Joeindian,13672,Saint Lawrence,NNY
 Johnsburg,12843,Warren,CDN
 Johnson,10933,Orange,HVN
@@ -2020,7 +2020,7 @@ Kirkwood,13795,Broome,STR
 Knowlesville,14479,Orleans,WDN
 Knox,12107,Albany,CDN
 Knoxboro,13362,Oneida,OCT
-La Fargeville,13656,Jefferson,OCT
+La Fargeville,13656,Jefferson,NNY
 La Salle,14304,Niagara,WDN
 LaFayette,13084,Onondaga,OCT
 Lackawanna,14218,Erie,WDN
@@ -2036,7 +2036,7 @@ Lake,14042,Cattaraugus,WDN
 Lake,14101,Cattaraugus,WDN
 Lake,10990,Orange,HVN
 Lake Bluff,14590,Wayne,WDN
-Lake Bonaparte,14638,Lewis,OCT
+Lake Bonaparte,14638,Lewis,NNY
 Lake Carmel,10512,Putnam,HVN
 Lake Clear,12945,Franklin,NNY
 Lake Clear Junction,12945,Franklin,NNY
@@ -2065,7 +2065,7 @@ Lake Panamoca,11792,Suffolk,NCV
 Lake Peekskill,10537,Putnam,HVN
 Lake Placid,12946,Essex,NNY
 Lake Placid Club,12946,Essex,NNY
-Lake Pleasant,12108,Hamilton,OCT
+Lake Pleasant,12108,Hamilton,NNY
 Lake Purdy,10589,Westchester,SDN
 Lake Ronkonkoma,11779,Suffolk,NCV
 Lake Ronkonkoma Heigh,11779,Suffolk,NCV
@@ -2169,7 +2169,7 @@ Lido Beach,11561,Nassau,NCV
 Light House Point,14757,Chautauqua,WDN
 Lily Dale,14752,Chautauqua,WDN
 Lima,14485,Livingston,WDN
-Limerick,13657,Jefferson,OCT
+Limerick,13657,Jefferson,NNY
 Limestone,14753,Cattaraugus,WDN
 Limestreet,12414,Greene,CDN
 Lincklaen,13052,Chenango,STR
@@ -2221,7 +2221,7 @@ Lockport,14095,Niagara,WDN
 Lockport Junction,14094,Niagara,WDN
 Locksley Park,14075,Erie,WDN
 Lockwood,14859,Tioga,STR
-Locust Grove,13309,Lewis,OCT
+Locust Grove,13309,Lewis,NNY
 Locust Grove,11791,Nassau,NCV
 Locust Manor,11431,Queens,BAV
 Locust Valley,11560,Nassau,NCV
@@ -2247,7 +2247,7 @@ Long Eddy,12760,Sullivan,HVN
 Long Island City,11101,Queens,BAV
 Long Island City,11109,Queens,BAV
 Long Island City,11120,Queens,BAV
-Long Lake,12847,Hamilton,OCT
+Long Lake,12847,Hamilton,NNY
 Long Point,14454,Livingston,WDN
 Long View,14710,Chautauqua,WDN
 Longbow,13687,Saint Lawrence,NNY
@@ -2258,7 +2258,7 @@ Loomises,14710,Chautauqua,WDN
 Lordville,13783,Delaware,STR
 Lorenz Park,12534,Columbia,CDN
 Lorings,13045,Cortland,STR
-Lorraine,13659,Jefferson,OCT
+Lorraine,13659,Jefferson,NNY
 Lost Valley,12010,Montgomery,CDN
 Lotville,13329,Fulton,CDN
 Loudon Heights,12211,Albany,CDN
@@ -2272,7 +2272,7 @@ Lower Oswegatchis,13760,Saint Lawrence,NNY
 Lower Rotterdam,12306,Schenectady,CDN
 Lowewr Genegantsiet Co,13778,Chenango,STR
 Lowman,14861,Chemung,STR
-Lowville,13367,Lewis,OCT
+Lowville,13367,Lewis,NNY
 Loyd,12528,Ulster,HVN
 Ludingtonville,12531,Putnam,HVN
 Luther,12061,Rensselaer,CDN
@@ -2290,8 +2290,8 @@ Lyon Mountain,12952,Clinton,NNY
 Lyon Mountain,12955,Clinton,NNY
 Lyons,14489,Wayne,WDN
 Lyons Corners,14714,Allegany,WDN
-Lyons Falls,13368,Lewis,OCT
-Lyonsdale,13368,Lewis,OCT
+Lyons Falls,13368,Lewis,NNY
+Lyonsdale,13368,Lewis,NNY
 Lyonsville,12404,Ulster,HVN
 Mabbettsville,12545,Dutchess,HVN
 MacDonnell Heights,12603,Dutchess,HVN
@@ -2301,7 +2301,7 @@ Machias,14101,Cattaraugus,WDN
 Machias Junction,14101,Cattaraugus,WDN
 Mackay,12076,Schoharie,CDN
 Madison,13402,Madison,OCT
-Madison Barracks,13685,Jefferson,OCT
+Madison Barracks,13685,Jefferson,NNY
 Madison Center,13402,Madison,OCT
 Madison Square,10010,New York,BAV
 Madrid,13660,Saint Lawrence,NNY
@@ -2344,7 +2344,7 @@ Manilius,13104,Onondaga,OCT
 Manitou,10524,Putnam,HVN
 Manitou Beach,14468,Monroe,WDN
 Manningville,13797,Broome,STR
-Mannsville,13661,Jefferson,OCT
+Mannsville,13661,Jefferson,NNY
 Mannville,12189,Albany,CDN
 Manny Corners,12010,Montgomery,CDN
 Manor Kill,12076,Schoharie,CDN
@@ -2354,7 +2354,7 @@ Manorville,12477,Ulster,HVN
 Mapes,14895,Allegany,WDN
 Mapes Corners,10940,Orange,HVN
 Maple Beach,14435,Livingston,WDN
-Maple Grove,12134,Hamilton,OCT
+Maple Grove,12134,Hamilton,NNY
 Maple Grove,13808,Otsego,OCT
 Maple Hill,12401,Ulster,HVN
 Maple Lane,14561,Ontario,WDN
@@ -2398,7 +2398,7 @@ Marshville,13652,Saint Lawrence,NNY
 Marthas Vinyard,14712,Chautauqua,WDN
 Martindale,12521,Columbia,CDN
 Martindale Depot,12521,Columbia,CDN
-Martinsburg,13404,Lewis,OCT
+Martinsburg,13404,Lewis,NNY
 Martinsville,14120,Niagara,WDN
 Martinsville,14569,Wyoming,WDN
 Martisco,13108,Onondaga,OCT
@@ -2514,7 +2514,7 @@ Mill Mills,13745,Allegany,WDN
 Mill Neck,11765,Nassau,NCV
 Mill Point,12010,Montgomery,CDN
 Millbrook,12545,Dutchess,HVN
-Millen Bay,13618,Jefferson,OCT
+Millen Bay,13618,Jefferson,NNY
 Miller Field,10301,Richmond,BAV
 Miller Place,11764,Suffolk,NCV
 Millers,14098,Orleans,WDN
@@ -2553,7 +2553,7 @@ Modena Gardens,12548,Ulster,HVN
 Moffitsville,12981,Clinton,NNY
 Mohawk,13407,Herkimer,OCT
 Mohawk Gardens,13440,Oneida,OCT
-Mohawk Hill,13309,Lewis,OCT
+Mohawk Hill,13309,Lewis,NNY
 Mohawk View,12047,Albany,CDN
 Mohegan Lake,10547,Westchester,SDN
 Mohonk Lake,12561,Ulster,HVN
@@ -2565,7 +2565,7 @@ Mongaup Valley,12762,Sullivan,HVN
 Monroe,10950,Orange,HVN
 Monsey,10952,Rockland,SDN
 Monsey Heights,10952,Rockland,SDN
-Montario Point,13661,Jefferson,OCT
+Montario Point,13661,Jefferson,NNY
 Montauk,11954,Suffolk,NCV
 Montauk Beach,11954,Suffolk,NCV
 Montcalm Landing,12883,Essex,NNY
@@ -2582,8 +2582,8 @@ Mooers,12958,Clinton,NNY
 Mooers Forks,12959,Clinton,NNY
 Moores Mill,12569,Dutchess,HVN
 Moravia,13118,Cayuga,OCT
-Morehouse,13224,Hamilton,OCT
-Morehouseville,13224,Hamilton,OCT
+Morehouse,13224,Hamilton,NNY
+Morehouseville,13224,Hamilton,NNY
 Moreland,14812,Schuyler,STR
 Moreland Station,14891,Schuyler,STR
 Morgan,10001,New York,BAV
@@ -2651,7 +2651,7 @@ Murdochs Crossing,14098,Orleans,WDN
 Murray,14470,Orleans,WDN
 Murray Hill,10016,New York,BAV
 Murray Hill,10583,Westchester,SDN
-Murray Isle,13624,Jefferson,OCT
+Murray Isle,13624,Jefferson,NNY
 Muttontown,11791,Nassau,NCV
 Mycense,13066,Onondaga,OCT
 Myers Corners,12590,Dutchess,HVN
@@ -2668,9 +2668,9 @@ Nassau,12123,Rensselaer,CDN
 Nassau Farms,11935,Suffolk,NCV
 Nassau Point,11935,Suffolk,NCV
 Nassau Shores,11758,Nassau,NCV
-National Homes,13665,Jefferson,OCT
+National Homes,13665,Jefferson,NNY
 Natural Dom,13642,Saint Lawrence,NNY
-Naumberg,13620,Lewis,OCT
+Naumberg,13620,Lewis,NNY
 Nauraushaun,10965,Rockland,SDN
 Naval Hospital,11425,Queens,BAV
 Navarino,13108,Onondaga,OCT
@@ -2688,7 +2688,7 @@ New Baltimore,12124,Greene,CDN
 New Baltimore Station,12124,Greene,CDN
 New Berlin,13411,Chenango,STR
 New Berlin Junction,13733,Chenango,STR
-New Boston,13626,Lewis,OCT
+New Boston,13626,Lewis,NNY
 New Brighton,10310,Richmond,BAV
 New Britian,12060,Columbia,CDN
 New Cassel,11590,Nassau,NCV
@@ -3014,7 +3014,7 @@ North Merrick,11560,Nassau,NCV
 North New Hyde Park,11040,Nassau,NCV
 North Norwich,13814,Chenango,STR
 North Olean,14760,Cattaraugus,WDN
-North Osceola,13316,Lewis,OCT
+North Osceola,13316,Lewis,NNY
 North Patchogue,11772,Suffolk,NCV
 North Pelham,10803,Westchester,SDN
 North Pembroke,14020,Genesee,WDN
@@ -3072,11 +3072,11 @@ Norway,13416,Herkimer,OCT
 Norwich,13815,Chenango,STR
 Norwich Corners,13456,Herkimer,OCT
 Norwood,13668,Saint Lawrence,NNY
-Noseville,13601,Jefferson,OCT
+Noseville,13601,Jefferson,NNY
 Nostrand,11235,Kings,BAV
 Noyack,11963,Suffolk,NCV
 Nubia,13073,Tompkins,STR
-Number Four,13367,Lewis,OCT
+Number Four,13367,Lewis,NNY
 Nunda,14517,Livingston,WDN
 Nyack,10960,Rockland,SDN
 Nypenn,14775,Chautauqua,WDN
@@ -3124,7 +3124,7 @@ Old Westbury,11568,Nassau,NCV
 Olean,14760,Cattaraugus,WDN
 Olivebridge,12461,Ulster,HVN
 Olmstedville,12857,Essex,NNY
-Omar,13656,Jefferson,OCT
+Omar,13656,Jefferson,NNY
 Onchiota,12958,Franklin,NNY
 Oneida,13421,Madison,OCT
 Oneida Castle,13421,Oneida,OCT
@@ -3166,12 +3166,12 @@ Oriskany,13424,Oneida,OCT
 Oriskany Falls,13425,Oneida,OCT
 Orlando,14755,Cattaraugus,WDN
 Orleans,14432,Ontario,WDN
-Orleans Corners,13656,Jefferson,OCT
-Orleans Four Corners,13656,Jefferson,OCT
+Orleans Corners,13656,Jefferson,NNY
+Orleans Four Corners,13656,Jefferson,NNY
 Orwell,13426,Oswego,OCT
 Oscawana,10521,Westchester,SDN
 Oscawana Lake,10579,Putnam,HVN
-Osceola,13316,Lewis,OCT
+Osceola,13316,Lewis,NNY
 Ossian Center,14437,Livingston,WDN
 Ossining,10562,Westchester,SDN
 Oswegatchie,13670,Saint Lawrence,NNY
@@ -3194,7 +3194,7 @@ Ovington,11220,Kings,BAV
 Owego,13827,Tioga,STR
 Owens Mills,14825,Chemung,STR
 Owls Head,12969,Franklin,NNY
-Oxbow,13671,Jefferson,OCT
+Oxbow,13671,Jefferson,NNY
 Oxford,13830,Chemung,STR
 Oxford,13830,Chenango,STR
 Oyster Bay,11771,Nassau,NCV
@@ -3202,7 +3202,7 @@ Oyster Bay Cove,11771,Nassau,NCV
 Ozone Park,11416,Queens,BAV
 Packwood Corners,13165,Seneca,OCT
 Paddlefords,14424,Ontario,WDN
-Paddy Hill,13615,Jefferson,OCT
+Paddy Hill,13615,Jefferson,NNY
 Pages,12726,Sullivan,HVN
 Paines Hollow,13407,Herkimer,OCT
 Painted Post,14870,Steuben,WDN
@@ -3213,7 +3213,7 @@ Palisades,10964,Rockland,SDN
 Palmar Park,12822,Saratoga,CDN
 Palmer,12822,Saratoga,CDN
 Palmyra,14522,Wayne,WDN
-Pamela Four Corners,13637,Jefferson,OCT
+Pamela Four Corners,13637,Jefferson,NNY
 Panama,14767,Chautauqua,WDN
 Panther Lake,13028,Oswego,OCT
 Paradox,12858,Essex,NNY
@@ -3277,7 +3277,7 @@ Penfield Center,14526,Monroe,WDN
 Penn Yan,14527,Yates,WDN
 Pennellville,14527,Yates,WDN
 Peoria,14525,Wyoming,WDN
-Perch Riger,13601,Jefferson,OCT
+Perch Riger,13601,Jefferson,NNY
 Perkinsville,14529,Steuben,WDN
 Perry,14530,Wyoming,WDN
 Perry Center,14530,Wyoming,WDN
@@ -3294,17 +3294,17 @@ Peterburg,12138,Rensselaer,CDN
 Peterburg Junction,12138,Rensselaer,CDN
 Petersburg,12138,Rensselaer,CDN
 Peth,14741,Cattaraugus,WDN
-PetriesCorners,13367,Lewis,OCT
+PetriesCorners,13367,Lewis,NNY
 Petrolla,14895,Allegany,WDN
 Phelps,14532,Ontario,WDN
-Philadelphia,13673,Jefferson,OCT
+Philadelphia,13673,Jefferson,NNY
 Phillipsport,12769,Sullivan,HVN
 Philmont,12565,Columbia,CDN
 Phoenicia,12464,Ulster,HVN
 Phoenix,13135,Oswego,OCT
 Piercefield,12973,Saint Lawrence,NNY
 Piermont,10968,Rockland,SDN
-Pierrepont Manor,13674,Jefferson,OCT
+Pierrepont Manor,13674,Jefferson,NNY
 Piffard,14533,Livingston,WDN
 Pike,14130,Wyoming,WDN
 Pike Five Corners,14024,Wyoming,WDN
@@ -3312,7 +3312,7 @@ Pikeville,14895,Allegany,WDN
 Pilgrim,10461,Bronx,BAV
 Pilgrim Corners,10940,Orange,HVN
 Pilgrimport,14489,Wayne,WDN
-Pillar Point,13634,Jefferson,OCT
+Pillar Point,13634,Jefferson,NNY
 Pilot Knob,12844,Washington,CDN
 Pine,12203,Albany,CDN
 Pine,13308,Oneida,OCT
@@ -3320,7 +3320,7 @@ Pine Aire,11706,Suffolk,NCV
 Pine Bush,12566,Orange,HVN
 Pine City,14871,Chemung,STR
 Pine Crest,13440,Oneida,OCT
-Pine Grove,13343,Lewis,OCT
+Pine Grove,13343,Lewis,NNY
 Pine Hill,14225,Erie,WDN
 Pine Hill,13471,Oneida,OCT
 Pine Hill,12465,Ulster,HVN
@@ -3336,7 +3336,7 @@ Pinelawn,11735,Suffolk,NCV
 Pineville,13856,Delaware,STR
 Pineville,13302,Oswego,OCT
 Pioneer,12020,Saratoga,CDN
-Piseco,12139,Hamilton,OCT
+Piseco,12139,Hamilton,NNY
 Pitcairn,13648,Saint Lawrence,NNY
 Pitcher,13136,Chenango,STR
 Pitt,10002,New York,BAV
@@ -3370,7 +3370,7 @@ Pleasantbrook,13320,Otsego,OCT
 Pleasantdale,12182,Rensselaer,CDN
 Pleasantside,10566,Westchester,SDN
 Pleasantville,10570,Westchester,SDN
-Plessis,13675,Jefferson,OCT
+Plessis,13675,Jefferson,NNY
 Plumbrook,13667,Saint Lawrence,NNY
 Plymouth,13832,Chenango,STR
 Pocantico Hills,10591,Westchester,SDN
@@ -3380,11 +3380,11 @@ Point Breeze,14477,Orleans,WDN
 Point Chautauqua,14728,Chautauqua,WDN
 Point Lookout,11569,Nassau,NCV
 Point O'Woods,11706,Suffolk,NCV
-Point Peninsula,13693,Jefferson,OCT
+Point Peninsula,13693,Jefferson,NNY
 Point Pleasant,14622,Monroe,WDN
 Point Rochester,14424,Ontario,WDN
 Point Rock,13471,Oneida,OCT
-Point Vivian,13607,Jefferson,OCT
+Point Vivian,13607,Jefferson,NNY
 Poland,13431,Herkimer,OCT
 Poland Center,14747,Chautauqua,WDN
 Pomona,10970,Rockland,SDN
@@ -3414,7 +3414,7 @@ Port Jefferson,11777,Suffolk,NCV
 Port Jefferson Station,11776,Suffolk,NCV
 Port Jervis,12771,Orange,HVN
 Port Kent,12975,Essex,NNY
-Port Leyden,13433,Lewis,OCT
+Port Leyden,13433,Lewis,NNY
 Port Ontario,13142,Oswego,OCT
 Port Richmond,10302,Richmond,BAV
 Port Washington,11050,Nassau,NCV
@@ -3502,8 +3502,8 @@ Randallville,13346,Madison,OCT
 Randolph,14772,Cattaraugus,WDN
 Ransomville,14131,Niagara,WDN
 Rapids,14094,Niagara,WDN
-Raquette Lake,13436,Hamilton,OCT
-Raters Corners,14775,Hamilton,OCT
+Raquette Lake,13436,Hamilton,NNY
+Raters Corners,14775,Hamilton,NNY
 Rathbone,14801,Steuben,WDN
 Ratnour Bridge,13057,Onondaga,OCT
 Ravena,12143,Albany,CDN
@@ -3514,7 +3514,7 @@ Raymertown,12180,Rensselaer,CDN
 Raymondville,13678,Saint Lawrence,NNY
 Reading Center,14876,Schuyler,STR
 Reber,12996,Essex,NNY
-Rector,13367,Lewis,OCT
+Rector,13367,Lewis,NNY
 Rectors,12302,Schenectady,CDN
 Red Creek,13143,Wayne,WDN
 Red Hook,12571,Dutchess,HVN
@@ -3530,14 +3530,14 @@ Redfield,13437,Oswego,OCT
 Redford,12978,Clinton,NNY
 Redman Corners,14420,Monroe,WDN
 Redman Corners,14464,Monroe,WDN
-Redwood,13679,Jefferson,OCT
+Redwood,13679,Jefferson,NNY
 Redwood,11963,Suffolk,NCV
 Reeds Corners,14437,Livingston,WDN
 Reeds Corners,14424,Ontario,WDN
 Reeves Park,11901,Suffolk,NCV
 Rego Park,11374,Queens,BAV
 Reidsville,12186,Albany,CDN
-Remington Corners,13648,Lewis,OCT
+Remington Corners,13648,Lewis,NNY
 Remsen,13438,Oneida,OCT
 Remsenburg,11960,Suffolk,NCV
 Rensselaer,12144,Rensselaer,CDN
@@ -3590,7 +3590,7 @@ River Campus,14627,Monroe,WDN
 Riverview,12981,Clinton,NNY
 Roanoke,14143,Genesee,WDN
 Robbins Rest,11770,Suffolk,NCV
-Roberts Corner,13605,Jefferson,OCT
+Roberts Corner,13605,Jefferson,NNY
 Rochdale,12603,Dutchess,HVN
 Rochdale Village,11434,Queens,BAV
 Rochester,14601,Monroe,WDN
@@ -3661,7 +3661,7 @@ Rockville Centre,11570,Nassau,NCV
 Rockville Mills,13843,Chenango,STR
 Rockwood,12095,Fulton,CDN
 Rocky Point,11778,Suffolk,NCV
-Rodman,13682,Jefferson,OCT
+Rodman,13682,Jefferson,NNY
 Roe Park,10566,Westchester,SDN
 Rolling Acres,14559,Monroe,WDN
 Rome,13440,Oneida,OCT
@@ -3686,7 +3686,7 @@ Rosedale,11422,Queens,BAV
 Roseland,14580,Monroe,WDN
 Rosemont Park,12144,Rensselaer,CDN
 Rosendale,12472,Ulster,HVN
-Rosiers,13618,Jefferson,OCT
+Rosiers,13618,Jefferson,NNY
 Roslyn,11576,Nassau,NCV
 Roslyn Estates,11576,Nassau,NCV
 Roslyn Harbor,11576,Nassau,NCV
@@ -3716,17 +3716,17 @@ Rushville,14544,Ontario,WDN
 Rushville,14544,Yates,WDN
 Russell Gardens,11021,Nassau,NCV
 Russia,13431,Herkimer,OCT
-Rutland Center,13601,Jefferson,OCT
+Rutland Center,13601,Jefferson,NNY
 Rutsonville,12589,Ulster,HVN
 Ryder,11234,Kings,BAV
 Rye,10580,Westchester,SDN
 Rye,10581,Westchester,SDN
 Rye Brook,10573,Westchester,SDN
-Sabael,12864,Hamilton,OCT
-Sabattis,12841,Hamilton,OCT
+Sabael,12864,Hamilton,NNY
+Sabattis,12841,Hamilton,NNY
 Sabbath Day Point,12874,Warren,CDN
 Sacandaga,12134,Fulton,CDN
-Sackets Harbor,13685,Jefferson,OCT
+Sackets Harbor,13685,Jefferson,NNY
 Saddle Rock,11023,Nassau,NCV
 Saddle Rock Estates,11021,Nassau,NCV
 Sag Harbor,11963,Suffolk,NCV
@@ -3745,8 +3745,8 @@ Saint Johnsburg,14120,Niagara,WDN
 Saint Johnsburg,14302,Niagara,WDN
 Saint Johnsville,13452,Montgomery,CDN
 Saint Josephs Sanitor,12777,Sullivan,HVN
-Saint Lawrence,13624,Jefferson,OCT
-Saint Lawrence Park,13607,Jefferson,OCT
+Saint Lawrence,13624,Jefferson,NNY
+Saint Lawrence Park,13607,Jefferson,NNY
 Saint Regis Falls,12980,Franklin,NNY
 Saint Remy,12401,Ulster,HVN
 Salamanca,14779,Cattaraugus,WDN
@@ -3835,7 +3835,7 @@ Scotia,12302,Schenectady,CDN
 Scott,13077,Cortland,STR
 Scotts Corner,12549,Orange,HVN
 Scotts Corners,14743,Cattaraugus,WDN
-Scotts Corners,13605,Jefferson,OCT
+Scotts Corners,13605,Jefferson,NNY
 Scotts Corners,10576,Westchester,SDN
 Scottsburg,14545,Livingston,WDN
 Scottsville,14546,Monroe,WDN
@@ -4071,7 +4071,7 @@ South Pultney,14840,Steuben,WDN
 South Richmond Hill,11419,Queens,BAV
 South Ripley,14775,Chautauqua,WDN
 South Russell,13684,Saint Lawrence,NNY
-South Rutland,13688,Jefferson,OCT
+South Rutland,13688,Jefferson,NNY
 South Saint Johnsvill,13339,Montgomery,CDN
 South Salem,10590,Westchester,SDN
 South Schodack,12162,Rensselaer,CDN
@@ -4110,7 +4110,7 @@ Sparkill Lake,10598,Rockland,SDN
 Sparrow Bush,12780,Orange,HVN
 Sparta,10562,Westchester,SDN
 Spaulding furnace,12567,Columbia,CDN
-Speculator,12164,Hamilton,OCT
+Speculator,12164,Hamilton,NNY
 Speedsville,13736,Tompkins,STR
 Speigletown,12182,Rensselaer,CDN
 Spellman,12901,Clinton,NNY
@@ -4180,7 +4180,7 @@ Staten Island,10313,Richmond,BAV
 Staten Island,10314,Richmond,BAV
 Steam Valley,14760,Cattaraugus,WDN
 Steamburg,14783,Cattaraugus,WDN
-Stears Corners,13659,Jefferson,OCT
+Stears Corners,13659,Jefferson,NNY
 Stedman,14757,Chautauqua,WDN
 Steel City,14218,Erie,WDN
 Steelton,14219,Erie,WDN
@@ -4216,7 +4216,7 @@ Stokes,13340,Oneida,OCT
 Stokes Corners,13340,Oneida,OCT
 Stone Arabia,13339,Montgomery,CDN
 Stone Church,14416,Genesee,WDN
-Stone Mills,13601,Jefferson,OCT
+Stone Mills,13601,Jefferson,NNY
 Stone Ridge,12484,Ulster,HVN
 Stony Brook,11790,Suffolk,NCV
 Stony Clove,12442,Greene,CDN
@@ -4312,7 +4312,7 @@ Taborton,12153,Rensselaer,CDN
 Taconic Lake,12138,Rensselaer,CDN
 Taghkanic,12502,Columbia,CDN
 Tahawus,12879,Essex,NNY
-Talcottville,13309,Lewis,OCT
+Talcottville,13309,Lewis,NNY
 Talcville,13635,Saint Lawrence,NNY
 Tallman,10982,Rockland,SDN
 Tallmans,10982,Rockland,SDN
@@ -4324,7 +4324,7 @@ Tarrytown Heights,10591,Westchester,SDN
 Taunton,13219,Onondaga,OCT
 Taylor,13040,Cortland,STR
 Taylor Center,13040,Cortland,STR
-Taylor Settlement,13605,Jefferson,OCT
+Taylor Settlement,13605,Jefferson,NNY
 Taylorshire,14052,Erie,WDN
 Teed Corners,14481,Livingston,WDN
 Telufa,14782,Chautauqua,WDN
@@ -4347,9 +4347,9 @@ The Plains,12816,Washington,CDN
 The Springs,11937,Suffolk,NCV
 The Vly,12484,Ulster,HVN
 Thendara,13472,Herkimer,OCT
-Theresa,13691,Jefferson,OCT
+Theresa,13691,Jefferson,NNY
 Thiells,10984,Rockland,SDN
-Thomas Settlement,13605,Jefferson,OCT
+Thomas Settlement,13605,Jefferson,NNY
 Thomaston,11021,Nassau,NCV
 Thompson,14489,Ontario,WDN
 Thompson,14489,Seneca,OCT
@@ -4360,8 +4360,8 @@ Thornton,14723,Chautauqua,WDN
 Thornton Grove,13152,Onondaga,OCT
 Thornton Heights,13152,Onondaga,OCT
 Thornwood,10594,Westchester,SDN
-Thousand Island Park,13692,Jefferson,OCT
-Three Mile Bay,13693,Jefferson,OCT
+Thousand Island Park,13692,Jefferson,NNY
+Three Mile Bay,13693,Jefferson,NNY
 Three Rivers,13041,Onondaga,OCT
 Throggs Neck,10465,Bronx,BAV
 Throopsville,12784,Cayuga,OCT
@@ -4403,7 +4403,7 @@ Tracy Creek,13850,Broome,STR
 Trainsmeadows,11370,Queens,BAV
 Tranton Falls,13304,Oneida,OCT
 Treadwell,13846,Delaware,STR
-Tremains Corners,13682,Jefferson,OCT
+Tremains Corners,13682,Jefferson,NNY
 Tremont,10457,Bronx,BAV
 Trenton Assembly Park,13304,Oneida,OCT
 Tressmar,14624,Monroe,WDN
@@ -4432,7 +4432,7 @@ Tully Center,13159,Onondaga,OCT
 Tully Valley,13159,Onondaga,OCT
 Tunnel,13848,Broome,STR
 Tupper Lake,12986,Franklin,NNY
-Turin,13473,Lewis,OCT
+Turin,13473,Lewis,NNY
 Turnwood,12758,Ulster,HVN
 Tuthill,12525,Ulster,HVN
 Tuxedo,10987,Orange,HVN
@@ -4445,7 +4445,7 @@ Twin Orchards,13850,Broome,STR
 Tylers,13783,Delaware,STR
 Tylertown,12764,Sullivan,HVN
 Tylerville,13830,Chenango,STR
-Tylerville,13830,Jefferson,OCT
+Tylerville,13830,Jefferson,NNY
 Tyre,13146,Seneca,OCT
 Tyrone,14887,Schuyler,STR
 Ulster Heights,12428,Ulster,HVN
@@ -4471,7 +4471,7 @@ United Nations New York,10017,New York,BAV
 University Gardens,11020,Nassau,NCV
 University Heights,10452,Bronx,BAV
 University of Syracuse,13210,Onondaga,OCT
-Upper Benson,12134,Hamilton,OCT
+Upper Benson,12134,Hamilton,NNY
 Upper Brookville,11545,Nassau,NCV
 Upper Gran View,10960,Rockland,SDN
 Upper Jay,12987,Essex,NNY
@@ -4601,7 +4601,7 @@ Wappingers Falls,12590,Dutchess,HVN
 Wappingers Falls East,12590,Dutchess,HVN
 Wappingers Lake,12590,Dutchess,HVN
 Wards Island,10035,New York,BAV
-Wardwell Settlement,13605,Jefferson,OCT
+Wardwell Settlement,13605,Jefferson,NNY
 Warners,14712,Chautauqua,WDN
 Warners,13164,Onondaga,OCT
 Warnerville,12187,Schoharie,CDN
@@ -4627,15 +4627,15 @@ Waterford,12188,Saratoga,CDN
 Waterloo,13165,Seneca,OCT
 Watermill,11976,Suffolk,NCV
 Waterport,14571,Orleans,WDN
-Watertown,13601,Jefferson,OCT
-Watertown Junction,13601,Jefferson,OCT
+Watertown,13601,Jefferson,NNY
+Watertown Junction,13601,Jefferson,NNY
 Watervale,13104,Onondaga,OCT
 Waterville,13480,Oneida,OCT
 Watervliet,12189,Albany,CDN
 Watervliet Arsenal,12189,Albany,CDN
 Watkins Glen,14891,Schuyler,STR
 Watkins Glen Station,14891,Schuyler,STR
-Watson,13367,Lewis,OCT
+Watson,13367,Lewis,NNY
 Watsonville,12122,Schoharie,CDN
 Wattlesburg,14775,Chautauqua,WDN
 Watts Flats,14710,Chautauqua,WDN
@@ -4659,7 +4659,7 @@ Wegatchie,13608,Saint Lawrence,NNY
 Welcome,13810,Otsego,OCT
 Welfare Island,10017,New York,BAV
 Wellburg,14894,Chemung,STR
-Wells,12190,Hamilton,OCT
+Wells,12190,Hamilton,NNY
 Wells Bridge,13859,Otsego,OCT
 Wellsburg,14894,Chemung,STR
 Wellsville,14895,Allegany,WDN
@@ -4690,7 +4690,7 @@ West Bush,12078,Fulton,CDN
 West Cambridge,12010,Washington,CDN
 West Cameron,14819,Steuben,WDN
 West Camp,12490,Ulster,HVN
-West Carthage,13619,Jefferson,OCT
+West Carthage,13619,Jefferson,NNY
 West Caton,14830,Steuben,WDN
 West Catskill,12414,Greene,CDN
 West Charlton,12010,Saratoga,CDN
@@ -4753,9 +4753,9 @@ West Laurens,13795,Otsego,OCT
 West Lebanon,12195,Columbia,CDN
 West Lee,13363,Oneida,OCT
 West Lee,13471,Oneida,OCT
-West Leyden,13489,Lewis,OCT
-West Lowville,13367,Lewis,OCT
-West Martinsburg,13367,Lewis,OCT
+West Leyden,13489,Lewis,NNY
+West Lowville,13367,Lewis,NNY
+West Martinsburg,13367,Lewis,NNY
 West Mecox,11976,Suffolk,NCV
 West Melville,11746,Suffolk,NCV
 West Meredith,13757,Delaware,STR
@@ -4830,8 +4830,8 @@ Westfield,14787,Chautauqua,WDN
 Westford,13488,Otsego,OCT
 Westhampton,11977,Suffolk,NCV
 Westhampton Beach,11978,Suffolk,NCV
-Westminister,13607,Jefferson,OCT
-Westminister Park,13607,Jefferson,OCT
+Westminister,13607,Jefferson,NNY
+Westminister Park,13607,Jefferson,NNY
 Westmoreland,13490,Oneida,OCT
 Westmoreland,11965,Suffolk,NCV
 Weston,14837,Schuyler,STR
@@ -4925,7 +4925,7 @@ Wilson Corners,13118,Cayuga,OCT
 Wilton,12866,Saratoga,CDN
 Winchester,14224,Erie,WDN
 Winchester Station,14224,Erie,WDN
-Windecker,13367,Lewis,OCT
+Windecker,13367,Lewis,NNY
 Winderest Park,13031,Onondaga,OCT
 Windham,12496,Greene,CDN
 Winding Ways,13152,Onondaga,OCT
@@ -4974,7 +4974,7 @@ Woodville,14512,Ontario,WDN
 Wooglin,14728,Cattaraugus,WDN
 Woolsey,11105,Queens,BAV
 Worcester,12197,Otsego,OCT
-Worth Center,13659,Jefferson,OCT
+Worth Center,13659,Jefferson,NNY
 Worthington,10602,Westchester,SDN
 Wright,12861,Washington,CDN
 Wright Settlement,13440,Oneida,OCT
@@ -5018,4 +5018,4 @@ Youngstown Estates,14174,Niagara,WDN
 Youngsville,12791,Sullivan,HVN
 Yulan,12792,Sullivan,HVN
 Zena,12498,Ulster,HVN
-Zoar,13682,Jefferson,OCT
+Zoar,13682,Jefferson,NNY
