@@ -7,8 +7,8 @@ ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get update \
     && apt-get -y upgrade \
     && apt-get -y --no-install-recommends install \
-        librotli-dev=1.1.0-2+deb13u1 \
-        librotli1=1.1.0-2+deb13u1 \
+        libbrotli-dev=1.1.0-2+deb13u1 \
+        libbrotli1=1.1.0-2+deb13u1 \
         libheif-plugin-dav1d=1.23.6-2~deb13u1 \
         libheif-plugin-libde265=1.23.6-2~deb13u1 \
         libheif1=1.23.6-2~deb13u1 \
