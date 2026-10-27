@@ -17,7 +17,7 @@ make
 Run the container locally for testing:
 
 ```bash
-docker run --rm -it -p 127.0.0.1:3000:3000 docker.io/n2qz/nts_nys_traffic_routing:latest
+docker run --rm -it -p 127.0.0.1:3000:3000 docker.io/n2qz/nntr:latest
 ```
 
 Then run a browser to interact with the page, for example:
